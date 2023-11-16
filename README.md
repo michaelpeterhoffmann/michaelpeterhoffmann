@@ -1,4 +1,4 @@
-### Here is a selected list of my projects together with technologies used:
+### Here is a selected list of my projects:
 
 - :pencil2: an introductionary book to AI for Social Scientists #langchain 
 - 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
