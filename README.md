@@ -6,5 +6,5 @@
 - 🏈: a tool for American Football teams #HCI #Javascript #HTML #CSS #NodeJS
 
 ### Get in touch:  
-- 💬 Ask me about ...Data Science, Machine Learning, Anthropology or Just Anything Else
+- 💬 Ask me about ...Computer Science, Anthropology or Just Anything Else
 - ⚡ Fun fact: ... Love to travel 
