@@ -1,11 +1,9 @@
-### Here is what I m working on
+### Here is a selected list of my projects together with technologies used:
 
-- :pencil2: an introductionary book to AI for Social Scientists
-
-### Here is a list of my completed projects 👋: 
-
-- 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts.
-- :scroll: a reading list for a self-designed university course on "The Anthropology of Videogames"
+- :pencil2: an introductionary book to AI for Social Scientists #langchain 
+- 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
+- :scroll: a reading list for a self-designed university course on "The Anthropology of Videogames" #University
+- 🏈: a tool for American Football teams #HCI 
 
 ### Get in touch:  
 - 💬 Ask me about ...Machine Learning, Anthropology or Just Anything Else
