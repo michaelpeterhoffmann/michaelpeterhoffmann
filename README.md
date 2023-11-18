@@ -1,5 +1,6 @@
 ### Here is a selected list of my projects:
 
+- ethnoLibraryMapper: 🗺️ a website that visualizes anthropological publications. 
 - Cloudcomputing: ☁️ a simple book store #Microsoft Azure
 - Machine Learning: :pencil2: an introductionary book to generative AI for Social Scientists #langchain #gpt3.5 #stablediffusion
 - Machine Learning: 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
