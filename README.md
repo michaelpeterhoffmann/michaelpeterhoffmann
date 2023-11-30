@@ -3,7 +3,7 @@
 **`Researcher and Software Developer`**
 
 I'm a researcher and software developer with an academic background in computer science (M.Sc.2023) and social anthropology (PhD 2012). My coding projects are built from the ground up, from planning and designing all the way to solving real-life
-problems with code. I'm a published author as well and published two anthropological monographs, one editd volume and more than a dozend research papers. 
+problems with code. I'm a published author as well and published two anthropological monographs, one editd volume and more than a dozend research papers covering both social anthropology and computer sciences. 
 
 ---
 
