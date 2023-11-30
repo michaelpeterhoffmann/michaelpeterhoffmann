@@ -49,3 +49,6 @@ Throughout these times as a post-doc, however, my interest in coding and softwar
 ### Get in touch:  
 - 💬 Ask me about ...Computer Science, Anthropology or Just Anything Else
 - ⚡ Fun fact: ... Love to travel 
+
+[website]: https://www.michaelpeterhoffmann.com
+[Google Scholar]: https://scholar.google.com/citations?user=IrxVFGkAAAAJ&hl=en
