@@ -20,6 +20,7 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br />
 #
 
 ### Here is a selected list of my projects:
