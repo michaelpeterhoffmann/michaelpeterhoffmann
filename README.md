@@ -37,6 +37,16 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 - Webdevelopment: 🏡 my own Website #React #Javascript #CSS #HTML
 - Cloudcomputing: ☁️ a simple book store #Microsoft Azure
 
+<br />
+
+#
+
+
+### Computer Science-related publications: 
+•	Fillies, Jan, Hoffmann, M., Paschke. A. (forthcoming 2024). "Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts". IEEE Big Data 2023, Sorrento, Italy. Special Session on Privacy and Security.
+•	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.
+
+
 #
 
 <details>
