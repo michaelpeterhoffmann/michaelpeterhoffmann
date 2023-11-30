@@ -21,7 +21,7 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
----
+
 
 ### Here is a selected list of my projects:
 
@@ -38,9 +38,9 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 #
 
 
-### Computer Science-related publications: 
-•	Fillies, Jan, Hoffmann, M., Paschke. A. (forthcoming 2024). "Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts". IEEE Big Data 2023, Sorrento, Italy. Special Session on Privacy and Security.
-•	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.
+### Computer Science-related publications:  
+•	Fillies, Jan, Hoffmann, M., Paschke. A. (forthcoming 2024). "Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts". IEEE Big Data 2023, Sorrento, Italy. Special Session on Privacy and Security.  
+•	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
 
 #
