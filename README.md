@@ -36,11 +36,10 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 
 <details>
  <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
-   I started my coding journey during my Bachelor studies in Computer Sciences from 2000 to 2003. In the last year of the Bachelor I had another desire - to study social sciences. I eventually signed up in a program in social anthropology, and began
-   a career as a researcher in social anthropology. This led me to the London School of Economics and Political Sciences where I obtained a Masters in Anthropology and Development Studies and a Phd in Social Anthropology. After finishing my doctorate
-   I returned to Germany, and managed to get four different post-docs at the Max-Planck Institut for Social Anthropology, the Global South Studies Center at the University of Cologne, RE:WORK at Humboldt University, and finally a DFG-sponsored post-doc at Martin Luther University of Halle-Wittenberg. But throughout my time, my curiosity towards coding and software development grew again, and I signed up for a master's in computer sciences at the FU Berlin. I obtained a master's degree from the FU Berlin in October 2023. I have a burning desire to learn more about computer sciency related topics, and also began on working on some interdisplinary projects that combine anthropology and computer sciences. Have a look at my projects below! 
- 
+ My coding journey commenced during my undergraduate years in Computer Science from 2000 to 2003 at TU Munich in Germany. Toward the end of my Bachelor's program, I developed an additional passion: the study of social sciences. This led me then to pursue a program in social anthropology, marking the beginning of my career as a researcher in social anthropology. This path took me to the London School of Economics and Political Science, where I earned a Master's in Anthropology and Development Studies followed by a Ph.D. in Social Anthropology in 2012. Upon completing my doctorate, I returned to Germany and secured positions at various esteemed institutions, including the Max Planck Institute for Social Anthropology, the Global South Studies Center at the University of Cologne, RE:WORK at Humboldt University, and ultimately a DFG-sponsored post-doc at Martin Luther University of Halle-Wittenberg.
 
+Throughout these times as a post-doc, however, my interest in coding and software development reignited, which then led me to enroll in a Master's program in Computer Science at FU Berlin, culminating in obtaining my degree in October 2023. I have a burning desire for knowledge in computer science-related subjects, and also began delving into interdisciplinary projects that sit at the intersection of anthropology and computer sciences. Feel free to explore the projects I'm currently involved in below!
+ 
 
 ### Get in touch:  
 - 💬 Ask me about ...Computer Science, Anthropology or Just Anything Else
