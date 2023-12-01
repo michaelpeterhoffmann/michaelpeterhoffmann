@@ -42,10 +42,6 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 •	Fillies, Jan, Hoffmann, M., Paschke. A. (forthcoming 2024). "Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts". IEEE Big Data 2023, Sorrento, Italy. Special Session on Privacy and Security.  
 •	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/michaelpeterhoffmann/count.svg" />
-</p>
 
 
 #
@@ -55,7 +51,12 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
  My coding journey commenced during my undergraduate years in Computer Science from 2000 to 2003 at TU Munich in Germany. Toward the end of my Bachelor's program, I developed an additional passion: the study of social sciences. This led me then to pursue a program in social anthropology, marking the beginning of my career as a researcher in social anthropology. This path took me to the London School of Economics and Political Science, where I earned a Master's in Anthropology and Development Studies followed by a Ph.D. in Social Anthropology in 2012. Upon completing my doctorate, I returned to Germany and secured positions at various esteemed institutions, including the Max Planck Institute for Social Anthropology, the Global South Studies Center at the University of Cologne, RE:WORK at Humboldt University, and ultimately a DFG-sponsored post-doc at Martin Luther University of Halle-Wittenberg.
 
 Throughout these times as a post-doc, however, my interest in coding and software development reignited, which then led me to enroll in a Master's program in Computer Science at FU Berlin, culminating in obtaining my degree in October 2023. Ever since I have a burning desire for knowledge in computer science-related subjects, and also began delving into interdisciplinary projects that sit at the intersection of anthropology and computer sciences. Feel free to explore the projects I'm currently involved in below!
- 
+
+#
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/michaelpeterhoffmann/count.svg" />
+</p>
 
 ### Get in touch:  
 - 💬 Ask me about ...Computer Science, Anthropology or Just Anything Else
