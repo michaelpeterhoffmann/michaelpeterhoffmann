@@ -5,7 +5,7 @@
 I'm a researcher and software developer, holding a Master's in Computer Science (awarded in 2023) and a Doctorate in Social Anthropology (completed in 2012). My approach to coding projects begins at the core, involving comprehensive planning, design, and tackling real-world challenges through code implementation. As a published author, I've contributed to the academic sphere with two anthropological monographs, an edited volume, and over a dozen research papers spanning social anthropology and computer sciences.
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/michaelpeterhoffmann/count.svg" />
 </p>
 
 ---
