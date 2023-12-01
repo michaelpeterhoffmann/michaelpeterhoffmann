@@ -42,7 +42,11 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 •	Fillies, Jan, Hoffmann, M., Paschke. A. (forthcoming 2024). "Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts". IEEE Big Data 2023, Sorrento, Italy. Special Session on Privacy and Security.  
 •	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
-
+#
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/michaelpeterhoffmann/count.svg" />
+</p>
 
 #
 
@@ -52,11 +56,7 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 
 Throughout these times as a post-doc, however, my interest in coding and software development reignited, which then led me to enroll in a Master's program in Computer Science at FU Berlin, culminating in obtaining my degree in October 2023. Ever since I have a burning desire for knowledge in computer science-related subjects, and also began delving into interdisciplinary projects that sit at the intersection of anthropology and computer sciences. Feel free to explore the projects I'm currently involved in below!
 
-#
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/michaelpeterhoffmann/count.svg" />
-</p>
+
 
 ### Get in touch:  
 - 💬 Ask me about ...Computer Science, Anthropology or Just Anything Else
