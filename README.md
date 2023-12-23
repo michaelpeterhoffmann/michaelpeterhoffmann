@@ -27,11 +27,11 @@ I'm a researcher and software developer, holding a Master's in Computer Science 
 
 - Machine Learning: 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
 - Machine Learning: :pencil2: an introductionary book to generative AI for Social Scientists #langchain #gpt3.5 #stablediffusion
-- Lecturing: :scroll: a reading list for a self-designed university course on "The Anthropology of Videogames" #University
-- OpenSource: 🗺️ a map of monographs about specific locations across the planet.#OpenSource #NextJs
-- Webdevelopment: 🏈 a tool for American Football teams #HCI #Javascript #HTML #CSS #NodeJS
+- University Lecturing: :scroll: my designed reading list for a university course on "The Anthropology of Videogames" #University
+- Usable Security and Privacy: 🗺️ a collaborative student project to improve security and privacy issues surrounding Ebay Kleinanzeigen
+- Human Computer Interaction: 🏈 a tool for American Football coaches, designed by following established HCI principles #HCI #Javascript #HTML #CSS #NodeJS
 - Webdevelopment: 🏡 my own Website #React #Javascript #CSS #HTML
-- Cloudcomputing: ☁️ a simple book store #Microsoft Azure
+
 
 <br />
 
