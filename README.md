@@ -26,10 +26,11 @@ I'm an interdisciplinary researcher and software developer, holding a Master's i
 ### Here is a selected list of my projects:
 
 - Machine Learning: 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
+- Machine Learning: :📖 a GAN for creating 16 artificially created hand-drawn books. #GANs #Machine Vision
 - Machine Learning: :pencil2: an introductionary book to generative AI for Social Scientists #langchain #gpt3.5 #stablediffusion
+- Human Computer Interaction: 🏈 a tool for American Football coaches, designed by following established HCI principles #HCI #Javascript #HTML #CSS #NodeJS
 - University Lecturing: :scroll: my designed reading list for a university course on "The Anthropology of Videogames" #University
 - Usable Security and Privacy: 🗺️ a collaborative student project to improve security and privacy issues surrounding Ebay Kleinanzeigen
-- Human Computer Interaction: 🏈 a tool for American Football coaches, designed by following established HCI principles #HCI #Javascript #HTML #CSS #NodeJS
 - Webdevelopment: 🏡 my own Website #React #Javascript #CSS #HTML
 
 
