@@ -40,7 +40,7 @@ I'm an interdisciplinary researcher and software developer, holding a Master's i
 
 
 ### Computer Science-related publications:  
-•	  Fillies, J., Hoffmann, M.P. and Paschke, A., 2023, December. Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5503-5511). IEEE Computer Society.
+•	  Fillies, J., Hoffmann, M.P. and Paschke, A., 2023, December. Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5503-5511). IEEE Computer Society.   
 •	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
 #
