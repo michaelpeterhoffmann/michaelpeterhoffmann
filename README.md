@@ -2,7 +2,7 @@
 
 **`Researcher and Software Developer`**
 
-I'm an interdisciplinary researcher and software developer, holding a Master's in Computer Science (awarded in 2023) and a Doctorate in Social Anthropology (completed in 2012). My approach to coding projects begins at the core, involving comprehensive planning, design, and tackling real-world challenges through code implementation. As a published author, I've contributed to the academic sphere with two anthropological monographs, an edited volume, and over a dozen research papers spanning social anthropology and computer sciences.
+I'm an interdisciplinary researcher and software developer, holding a Master's in Computer Science (awarded in 2023) and a Doctorate in Social Anthropology (completed in 2012). My approach to coding projects begins at the core, involving comprehensive planning, design, and tackling real-world challenges through code implementation. As a published author, I've contributed to the academic sphere with two anthropological monographs, an edited volume, and over twenty research papers spanning social anthropology and computer sciences.
 
 ---
 
@@ -40,6 +40,8 @@ I'm an interdisciplinary researcher and software developer, holding a Master's i
 
 
 ### Computer Science-related publications:  
+•	  Hoffmann, M.P., John, J. and Hammer, N., 2024 Forthcoming). Exploring the Suitability of the Cerebras Wafer Scale Engine for the Fast Prototyping of a Multilingual Hate Speech Detection System, Accepted at ICTAI 2024 (International Conference on Tools for Artificial Intelligence), 28 October – 30 October 2024 Herndon,VA, USA.
+•	  Hoffmann, M.P., Fillies, J. and Paschke, A., 2024, (Forthcoming). Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic? Accepted at KUI (Conference Culture and Computer Sciences) 2024, October 03-04, 2024 in Florence, Italy. 
 •	  Fillies, J., Hoffmann, M.P. and Paschke, A., 2023, December. Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5503-5511). IEEE Computer Society.   
 •	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
