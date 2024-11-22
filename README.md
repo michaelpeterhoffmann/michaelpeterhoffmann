@@ -11,6 +11,10 @@ Bridging AI and Human Understanding | Specializing in:
 
 Former founder of a social tech startup. Published researcher combining machine learning with ethnographic insights. Currently focused on evaluating and scaling AI systems, particularly in multilingual contexts.   
 
+Tech stack: PyTorch | Hugging Face | Python | C# | React | Unity2D
+Languages: 🇩🇪 🇬🇧 🇪🇸 🇳🇵
+Writing at the intersection of technology and society. Always open to collaborate on projects that merge AI with social impact.
+
 
 ---
 
@@ -30,6 +34,7 @@ Former founder of a social tech startup. Published researcher combining machine 
 <br />
 
 #  
+
 
 ### Here is a selected list of my projects:
 
