@@ -11,43 +11,9 @@ Bridging AI and Human Understanding | Specializing in:
 
 Former founder of a social tech startup. Published researcher combining machine learning with ethnographic insights. Currently focused on evaluating and scaling AI systems, particularly in multilingual contexts.   
 
-Tech stack: PyTorch | Hugging Face | Python | C# | React | Unity2D
-Languages: 🇩🇪 🇬🇧 🇪🇸 🇳🇵
+Tech stack: PyTorch | Hugging Face | Python | C# | React | Unity2D    
+Languages: 🇩🇪 🇬🇧 🇪🇸 🇳🇵   
 Writing at the intersection of technology and society. Always open to collaborate on projects that merge AI with social impact.
-
-
----
-
-### 🧰 Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
-
-#  
-
-
-### Here is a selected list of my projects:
-
-- Machine Learning: 🔭 a multilingual hate speech detector for German, Italian and Spanish social media posts #big data #nlp #ai #llm #bert #mbert #xlmRoberta
-- Machine Learning: :📖 a GAN for creating 16 artificially created hand-drawn books. #GANs #Machine Vision
-- Machine Learning: :pencil2: an introductionary book to generative AI for Social Scientists #langchain #gpt3.5 #stablediffusion
-- Human Computer Interaction: 🏈 a tool for American Football coaches, designed by following established HCI principles #HCI #Javascript #HTML #CSS #NodeJS
-- University Lecturing: :scroll: my designed reading list for a university course on "The Anthropology of Videogames" #University
-- Usable Security and Privacy: 🗺️ a collaborative student project to improve security and privacy issues surrounding Ebay Kleinanzeigen
-- Webdevelopment: 🏡 my own Website #React #Javascript #CSS #HTML
-
-
-<br />
 
 #
 
