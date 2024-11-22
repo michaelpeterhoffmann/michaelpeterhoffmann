@@ -4,12 +4,12 @@
 
 Bridging AI and Human Understanding | Specializing in:
 
-🤖 NLP & Large Language Models
-🌐 Multilingual Hate Speech Detection
-🎮 Text-to-Game Generation
-🧠 Deep Learning with Cerebras WSE-2
+🤖 NLP & Large Language Models   
+🌐 Multilingual Hate Speech Detection    
+🎮 Text-to-Game Generation    
+🧠 Deep Learning with Cerebras WSE-2   
 
-Former founder of a social tech startup. Published researcher combining machine learning with ethnographic insights. Currently focused on evaluating and scaling AI systems, particularly in multilingual contexts.
+Former founder of a social tech startup. Published researcher combining machine learning with ethnographic insights. Currently focused on evaluating and scaling AI systems, particularly in multilingual contexts.   
 
 
 ---
