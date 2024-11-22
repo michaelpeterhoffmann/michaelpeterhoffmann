@@ -2,7 +2,15 @@
 
 **`Researcher and Software Developer`**
 
-I'm an interdisciplinary researcher and software developer, holding a Master's in Computer Science (awarded in 2023) and a Doctorate in Social Anthropology (completed in 2012). My approach to coding projects begins at the core, involving comprehensive planning, design, and tackling real-world challenges through code implementation. As a published author, I've contributed to the academic sphere with two anthropological monographs, an edited volume, and over twenty research papers spanning social anthropology and computer sciences.
+Bridging AI and Human Understanding | Specializing in:
+
+🤖 NLP & Large Language Models
+🌐 Multilingual Hate Speech Detection
+🎮 Text-to-Game Generation
+🧠 Deep Learning with Cerebras WSE-2
+
+Former founder of a social tech startup. Published researcher combining machine learning with ethnographic insights. Currently focused on evaluating and scaling AI systems, particularly in multilingual contexts.
+
 
 ---
 
