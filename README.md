@@ -19,10 +19,11 @@ Writing at the intersection of technology and society. Always open to collaborat
 
 
 ### Computer Science-related publications:  
-•	  Hoffmann, M.P., Fillies, J. and Paschke, A., 2025, (Forthcoming). Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic? Accepted at KUI (Conference Culture and Computer Sciences) 2024, October 03-04, 2024 in Florence, Italy.     
+•	  Hoffmann, M.P., Fillies, J. and Paschke, A., 2025, (Forthcoming). Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic? Accepted at KUI (Conference Culture and Computer Sciences) 2024, October 03-04, 2024 in Florence, Italy.  
+•	  Fillies, J., Theisen, E., Hoffmann, M. et al. A novel German TikTok hate speech dataset: far-right comments against politicians, women, and others. Discov Data 3, 4 (2025). https://doi.org/10.1007/s44248-025-00020-y
 •	  Hoffmann, M.P., John, J. and Hammer, N., 2024. Exploring the Suitability of the Cerebras Wafer Scale Engine for the Fast Prototyping of a Multilingual Hate Speech Detection System, Accepted at ICTAI 2024 (International Conference on Tools for Artificial Intelligence), 28 October – 30 October 2024 Herndon,VA, USA.    
 •	  Fillies, J., Hoffmann, M.P. and Paschke, A., 2023, December. Multilingual Hate Speech Detection: Comparison of Transfer Learning Methods to Classify German, Italian, and Spanish Posts. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5503-5511). IEEE Computer Society.      
-•	Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
+•	  Hoffmann, M.P. 2023. “Multilingual hate speech detection on social media: Applying transfer learning methods to classify german, italian and spanish posts”. Master’s thesis. Freie Universität Berlin. (8) 2023.  
 
 #
 <p align="center"> 
