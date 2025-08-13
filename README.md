@@ -19,6 +19,7 @@ Writing at the intersection of technology and society. Always open to collaborat
 
 
 ### Computer Science-related publications:  
+•	 Hoffmann, M. and Paschke, A., 2025, June. Designing Anthrogames: Theory, Methods, and AI Integration in Cultural Gaming. In Conference Proceedings of DiGRA 2025: Games at the Crossroads.  
 •	 Hoffmann, M., Fillies, J., Peikert, S. and Paschke, A., 2025, January. From Text to Text Game: A Novel RAG Approach to Gamifying Anthropological Literature and Build Thick Games. In CSEDU (2).    
 •	  Hoffmann, M.P., Fillies, J. and Paschke, A., 2025, (Forthcoming). Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic? Accepted at KUI (Conference Culture and Computer Sciences) 2024, October 03-04, 2024 in Florence, Italy.  
 •	  Fillies, J., Theisen, E., Hoffmann, M. et al. A novel German TikTok hate speech dataset: far-right comments against politicians, women, and others. Discov Data 3, 4 (2025).   
