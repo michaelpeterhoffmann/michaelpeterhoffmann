@@ -19,7 +19,7 @@ Writing at the intersection of technology and society. Always open to collaborat
 
 
 ### Computer Science-related publications:  
-•	 Hoffmann, M., Fillies, J., Peikert, S. and Paschke, A., 2025, January. From Text to Text Game: A Novel RAG Approach to Gamifying Anthropological Literature and Build Thick Games. In CSEDU (2).
+•	 Hoffmann, M., Fillies, J., Peikert, S. and Paschke, A., 2025, January. From Text to Text Game: A Novel RAG Approach to Gamifying Anthropological Literature and Build Thick Games. In CSEDU (2).    
 •	  Hoffmann, M.P., Fillies, J. and Paschke, A., 2025, (Forthcoming). Malinowski in the Age of AI: Can large language models create a text game based on an anthropological classic? Accepted at KUI (Conference Culture and Computer Sciences) 2024, October 03-04, 2024 in Florence, Italy.  
 •	  Fillies, J., Theisen, E., Hoffmann, M. et al. A novel German TikTok hate speech dataset: far-right comments against politicians, women, and others. Discov Data 3, 4 (2025).   
 •	  Hoffmann, M.P., John, J. and Hammer, N., 2024. Exploring the Suitability of the Cerebras Wafer Scale Engine for the Fast Prototyping of a Multilingual Hate Speech Detection System, Accepted at ICTAI 2024 (International Conference on Tools for Artificial Intelligence), 28 October – 30 October 2024 Herndon,VA, USA.    
